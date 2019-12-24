@@ -6,6 +6,7 @@ import cn.bdqfork.model.cycle.*;
 import cn.bdqfork.model.jsr250.JSR250FieldService;
 import cn.bdqfork.model.jsr250.JSR250SetterCycleService;
 import org.junit.Test;
+import javax.inject.*;
 
 public class AnnotationBeanFactoryTest {
 
